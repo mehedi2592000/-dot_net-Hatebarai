@@ -1,0 +1,14 @@
+C:\Users\mehedihasan\source\repos\BookLibaryTire\ELL\bin\Debug\ELL.dll
+C:\Users\mehedihasan\source\repos\BookLibaryTire\ELL\bin\Debug\ELL.pdb
+C:\Users\mehedihasan\source\repos\BookLibaryTire\ELL\bin\Debug\AutoMapper.dll
+C:\Users\mehedihasan\source\repos\BookLibaryTire\ELL\bin\Debug\DAL.dll
+C:\Users\mehedihasan\source\repos\BookLibaryTire\ELL\bin\Debug\EntityFramework.dll
+C:\Users\mehedihasan\source\repos\BookLibaryTire\ELL\bin\Debug\DAL.pdb
+C:\Users\mehedihasan\source\repos\BookLibaryTire\ELL\bin\Debug\DAL.dll.config
+C:\Users\mehedihasan\source\repos\BookLibaryTire\ELL\bin\Debug\AutoMapper.xml
+C:\Users\mehedihasan\source\repos\BookLibaryTire\ELL\bin\Debug\EntityFramework.xml
+C:\Users\mehedihasan\source\repos\BookLibaryTire\ELL\obj\Debug\ELL.csproj.AssemblyReference.cache
+C:\Users\mehedihasan\source\repos\BookLibaryTire\ELL\obj\Debug\ELL.csproj.CoreCompileInputs.cache
+C:\Users\mehedihasan\source\repos\BookLibaryTire\ELL\obj\Debug\ELL.csproj.CopyComplete
+C:\Users\mehedihasan\source\repos\BookLibaryTire\ELL\obj\Debug\ELL.dll
+C:\Users\mehedihasan\source\repos\BookLibaryTire\ELL\obj\Debug\ELL.pdb
